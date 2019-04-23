@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Doctor</string>
+    <string name="hospital_prompt"> Choose a Hospital </string>
+    <string name="department_prompt"> Choose a Department </string>
+
+    <string-array name="hospital_arrays">
+        <item>Choose a Hospital</item>
+        <item>Apollo Hospital</item>
+        <item>LabAid Cardiac Hospital</item>
+        <item>Popular Diagnostic Centre</item>
+    </string-array>
+
+    <string-array name="department_arrays">
+        <item>Choose a Department</item>
+        <item>Orthopedics</item>
+        <item>Internal Medicine</item>
+        <item>ENT</item>
+    </string-array>
+</resources>
